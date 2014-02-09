@@ -1,0 +1,19 @@
+{
+  "name": "node-signal-debian",
+  "version": "0.0.0",
+  "description": "demo repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robertkowalski/node-signal-debian.git"
+  },
+  "author": "Robert Kowalski <rok@kowalski.gd>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertkowalski/node-signal-debian/issues"
+  },
+  "homepage": "https://github.com/robertkowalski/node-signal-debian"
+}
